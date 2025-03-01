@@ -1,0 +1,52 @@
+.red{background-color:red;text-align: center;
+}
+.yellow{background-color:yellow;text-align: right;}
+.green{background-color:green;text-align: left;}
+.for_title {
+    font-style: italic;    
+    color: black;            
+    text-decoration: underline;
+}
+table {
+    border: 15px;
+    width: 98%;
+    height: 98%;
+    border-collapse: collapse;
+    overflow: auto;
+    background-color: aliceblue;
+    
+}
+td,th {  padding: 4px;
+    text-align: left;
+    border: 1px dashed #000; 
+    vertical-align: center;
+}
+.text1 {
+    font-style: italic; 
+    color: black; 
+    text-decoration: underline; 
+}
+.text2 {
+    font-weight: bold;  
+    font-size: 24px;  
+    color: black;  
+}
+.text3 {
+    font-size: 2em;
+    color: blue;  
+    font-stretch: expanded;
+}
+.text4 {
+    font-stretch: condensed;
+    color: rgb(37, 77, 33); 
+}
+.text5 {
+    font-family: 'Impact', 'Fantasy', sans-serif; 
+    color: rgb(128, 0, 128); 
+}
+ 
+.picture1 {
+    border: 2px solid #000; 
+    border-radius: 10px;  
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);  
+}

@@ -1,0 +1,24 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+}
+h3 {
+    color: blue;
+}
+.image {
+    height: 100px; 
+    transition: height 0.5s;
+}
+.italic {
+    font-style: italic;
+    color: green; 
+}
+.h6 {
+    color: red; 
+}
